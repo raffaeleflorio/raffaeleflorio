@@ -1,6 +1,19 @@
-Hi, I’m [Raffaele](https://raffaeleflorio.github.io) and I love to experiment with whatever capture my curiosity.
+<p>
+Hi, I’m <a href="https://raffaeleflorio.github.io">Raffaele</a> and I love to experiment with whatever capture my curiosity.
 
 Computer security and software development are my primary interests.
 
-[![raffaeleflorio's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffaeleflorio&count_private=true&show_icons=true)](https://github.com/raffaeleflorio)
-[![raffaeleflorio's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=raffaeleflorio&exclude_repo=raffaeleflorio.github.io&layout=compact)](https://github.com/raffaeleflorio)
+</p>
+
+<div>
+	<div style="display: inline-block; vertical-align: middle">
+		<a href="https://github.com/raffaeleflorio">
+			<img src="https://github-readme-stats.vercel.app/api?username=raffaeleflorio&count_private=true&show_icons=true" alt="GitHub stats" />
+		</a>
+	</div>
+	<div style="display: inline-block; vertical-align: middle">
+		<a href="https://github.com/raffaeleflorio">
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffaeleflorio&exclude_repo=raffaeleflorio.github.io,raffaeleflorio&layout=compact" alt="Most used languages" />
+		</a>
+	</div>
+</div>
