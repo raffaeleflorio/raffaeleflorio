@@ -1,7 +1,7 @@
 <p>
-Hi, I’m <a href="https://raffaeleflorio.github.io">Raffaele</a> and I love to experiment with whatever capture my curiosity.
+Hi, I’m <a href="https://raffaeleflorio.github.io">Raffaele</a> and I love to define myself as an abstractions explorer.
 
-Computer security and software development are my primary interests.
+Software development and computer security are my primary interests.
 </p>
 
 <a href="https://github.com/raffaeleflorio">
